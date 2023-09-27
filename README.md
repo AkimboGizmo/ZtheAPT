@@ -1,4 +1,5 @@
-<h1>Hi, I'm [Your Name]! <br/><a href="https://github.com/ZtheAPT">Aspiring Penetration Tester / Red Teamer</a></h1>
+<h1>Hi, I'm Tim Z.! </h1>
+  <b>Magna cum laude Cyber Security Graduate</b>
 
 <h2>🔒👨‍💻🌐 Aspiring Penetration Tester | Red Team | Cybersecurity Enthusiast 🌐👨‍💻🔒 :</h2>
 
@@ -10,11 +11,14 @@
   - Graduating with an impressive 3.89 GPA, I proudly achieved the status of a Phi Theta Kappa Honors Student, ranking in the top 10% of my campus.
   - <b>Future Pentest+ Aspirations</b>
   - With unwavering determination, I aspire to obtain the Pentest+ certification in the next 6 to 12 months, positioning myself as a proficient Penetration Tester and Red Teamer.
-  - <b>Cybersecurity Community Founder</b>
-  - Beyond personal growth, I'm passionate about fostering a strong cybersecurity community. I founded a study group where like-minded students connect, collaborate, and gain practical experience. Within this community, I serve as an instructor, sharing expertise in Linux Basics and Pentesting methods, all contributing to our collective growth and commitment to making the digital world safer.
-  - - <b>Security+ Certification Pursuit</b>
+   
+- <b>Cybersecurity Study Group | Community Founder</b>
+  - Created and Hosted by core TSTC Honor Students. Beyond personal growth, I'm passionate about fostering a strong cybersecurity community. I founded a study group where like-minded students connect, collaborate, and gain practical experience. Within this community, I serve as an instructor, sharing expertise in Linux Basics and Pentesting methods, all contributing 
+    to our collective growth and commitment to making the digital world safer. NOTE AFFILIATED WITH TSTC
+- <b>Security+ Certification Pursuit</b>
   - Currently, I'm working diligently toward earning my Security+ certification, a crucial step in my journey towards becoming a recognized cybersecurity professional.
-
+- <b>Pentest+ Certification Pursuit</b>
+  - I anticipate having my Pentest+ Certification by March 2024.
 
 <h2>🛠️ My Cybersecurity Projects:</h2>
 
