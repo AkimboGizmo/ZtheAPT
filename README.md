@@ -3,7 +3,7 @@
   
   <b>Magna cum laude Cyber Security Graduate</b>
 
-<h2>🔒👨‍💻Aspiring Penetration Tester | Red Team | Cybersecurity Enthusiast</h2>
+<h2>🔒👨‍💻Aspiring Penetration Tester | Red Team | Cybersecurity Enthusiast👨‍💻🔒</h2>
 
 - <b>Cybersecurity Career Transition</b>
   - Leveraging almost two decades of experience in Quality Assurance and Quality Control (QA/QC) and welding inspection within the Oil and Gas industry, I've embarked on an exciting journey into cybersecurity. This career shift reflects my unwavering commitment to protect digital assets and ensure system integrity.
