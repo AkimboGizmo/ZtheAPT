@@ -1,4 +1,6 @@
-<h1>Hi, I'm Tim Z.! </h1>
+<h1>Hi, I'm Tim Z. </h1>
+  <b>AKA ZtheAPT on HacktheBox and Twitch</b> 
+  
   <b>Magna cum laude Cyber Security Graduate</b>
 
 <h2>🔒👨‍💻Aspiring Penetration Tester | Red Team | Cybersecurity Enthusiast</h2>
