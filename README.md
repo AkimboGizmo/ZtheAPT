@@ -24,7 +24,7 @@
 
 - [TSTC Penetration Testing Capstone](https://github.com/ZtheAPT/Pentest-Capstone-TSTC)
 - [TSTC Capstone Course 2](https://github.com/ZtheAPT/Capstone-Course-2)
-- [Hack the Box Writeups](https://github.com/ZtheAPT/Hack-The-Box-Writeups)
+- [My Hack the Box Writeups](https://github.com/ZtheAPT/HacktheBox-Writeups)
 
 <h2> 🤝 Connect with me:</h2>
 
