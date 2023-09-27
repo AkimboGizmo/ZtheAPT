@@ -25,7 +25,7 @@
 <h2>🛠️ My Cybersecurity Projects:</h2>
 
 - [TSTC Penetration Testing Capstone](https://github.com/ZtheAPT/Pentest-Capstone-TSTC)
-- [TSTC Capstone Course 2](https://github.com/ZtheAPT/Capstone-Course-2)
+- [TSTC Network Enterprise Capstone](https://github.com/ZtheAPT/Network-Enterprise-Capstone-TSTC)
 - [My Hack the Box Writeups](https://github.com/ZtheAPT/HacktheBox-Writeups)
 
 <h2> 🤝 Connect with me:</h2>
