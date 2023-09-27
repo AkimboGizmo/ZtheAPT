@@ -30,10 +30,13 @@
 
 <h2> 🤝 Connect with me:</h2>
 
-[<img align="left" alt="YourName | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/yourprofilelink
+[<img align="left" alt="YourName | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]   https://www.linkedin.com/in/timothy-zellers-7b871321b/
 
-This GitHub repository is a reflection of my commitment to gaining practical experience, building a strong foundation in cybersecurity, and transitioning into a role where I can make a meaningful impact in the field of cybersecurity as an Aspiring Penetration Tester / Red Teamer.
 
+[linkedin]: https://www.linkedin.com/in/timothy-zellers-7b871321b/
+
+
+
+<b>This GitHub repository is a reflection of my commitment to gaining practical experience, building a strong foundation in cybersecurity, and transitioning into a role where I can make a meaningful impact in the field of cybersecurity as an Aspiring Penetration Tester / Red Teamer.<b>
 
