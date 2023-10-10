@@ -27,7 +27,7 @@
 - [TSTC Penetration Testing Capstone](https://github.com/ZtheAPT/Pentest-Capstone-TSTC)
 - [TSTC Network Enterprise Capstone](https://github.com/ZtheAPT/Network-Enterprise-Capstone-TSTC)
 - [My Hack the Box Writeups](https://github.com/ZtheAPT/HacktheBox-Writeups)
-
+- [My HuntressCTF Writeups](https://github.com/ZtheAPT/HuntressCTF-Writeups)
 <h2> 🤝 Connect with me:</h2>
 
 
