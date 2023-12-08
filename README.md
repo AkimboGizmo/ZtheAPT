@@ -7,8 +7,8 @@
 
 - <b>Cybersecurity Career Transition</b>
   - Leveraging almost two decades of experience in Quality Assurance and Quality Control (QA/QC) and welding inspection within the Oil and Gas industry, I've embarked on an exciting journey into cybersecurity. This career shift reflects my unwavering commitment to protect digital assets and ensure system integrity.
-- <b>Hack the Box Writeups</b>
-  - As part of my relentless pursuit of knowledge and practical experience, I've actively engaged with platforms like Hack the Box. I've meticulously documented my challenges, solutions, and insights, transforming my passion into real-world, hands-on cybersecurity projects.
+- <b>Hack the Box, HuntressCTF and PicoCTF Writeups</b>
+  - As part of my relentless pursuit of knowledge and practical experience, I've actively engaged with platforms like Hack the Box, HuntressCTF Comp and PicoCTF. I've meticulously documented my challenges, solutions, and insights, transforming my passion into real-world, hands-on cybersecurity projects.
 - <b>Phi Theta Kappa Honors Student</b>
   - Graduating with an impressive 3.9 GPA, I proudly achieved the status of a Phi Theta Kappa Honors Student, ranking in the top 10% of my campus.
   - <b>Future Pentest+ Aspirations</b>
