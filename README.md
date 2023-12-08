@@ -1,5 +1,5 @@
 <h1>Hi, I'm Tim Z. </h1>
-  <b>AKA Eagl3EyeZ on HacktheBox and Twitch</b> 
+  <b>AKA Akimbo_Gizmo on HacktheBox and Twitch</b> 
   
   <b>Magna cum laude Cyber Security Graduate</b>
 
