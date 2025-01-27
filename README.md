@@ -35,7 +35,7 @@ Having worked extensively within the **oil and gas industry**, I am now pursuing
 - **CompTIA Security+ ce (SY0-701)**  
   - **Certified:** 11/01/2024  
 
-### **Hacktober CTF Rankings**  
+### **Huntress Hacktober CTF Rankings**  
 - **HuntressCTF 2023:** Top 5%  
 - **HuntressCTF 2024:** Top 6%  
 
