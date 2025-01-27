@@ -13,14 +13,22 @@
   - Graduating with a 3.9 GPA, I proudly achieved the status of a Phi Theta Kappa Honors Student, ranking in the top 10% of my campus.
   - <b>Future Pentest+ Aspirations</b>
   - I aspire to obtain the Pentest+ certification in the beginning of 2025, positioning myself as a proficient Penetration Tester and Red Teamer.
-   
+
+<h2> Education and Training</h2>
+
+- <b>Cybersecurity Associate of Applied Science    Graduated: 08/31/2023
+- <b>Security+ Certification</b>
+  - CompTIA Security+ ce SYO-701 Certified   ![image](https://github.com/user-attachments/assets/f59db196-baff-4ac7-8ff7-4c1b75569b2e)  Obtained: 11.01.2024
+- <b>Huntress Hacktober CTF 2023 and 2024<b>
+  - In HuntressCTF 2023 our team was in the top 5% of contesstance.
+  - In HuntressCTf 2024 our team was in the top 6% of contesstance.
+  - You can find my write ups in the links bellow.
 - <b>Cybersecurity Study Group | Community Founder</b>
-  - Created and Hosted by core TSTC Honor Students. Beyond personal growth, I'm passionate about fostering a strong cybersecurity community. I founded a study group where like-minded students connect, collaborate, and gain practical experience. Within this community, I serve as an instructor, sharing expertise in Linux Basics and Pentesting methods, all contributing 
-    to our collective growth and commitment to making the digital world safer. NOTE AFFILIATED WITH TSTC
-- <b>Security+ Certification Pursuit</b>
-  - Currently, I'm working diligently toward earning my Security+ certification, a crucial step in my journey towards becoming a recognized cybersecurity professional.
+  - Created and hosted the cybersecurity Stuy Group that consisted of a core group of TSTC students. Over 90% of our group graduated as Honor Students. I'm passionate about fostering a strong cybersecurity community and growing our knowledge together. I founded the study group where like-minded students could connect, collaborate, and 
+    gain practical experience. Within this community, I served as a helping hand to the group, sharing my knowledge in the cybersecurity methods being taught at TSTC's program. Working and learning together made for great experiences for other students and myself, elevating our learning experince while making bonds with those in our 
+    community. The Cybersecurity Study group was hosted and maintaind souly by myself as well as other students of TSTC program. NOT AFFILIATED WITH TEXAS STATE TECHNICAL COLLEGE. 
 - <b>Pentest+ Certification Pursuit</b>
-  - I anticipate having my Pentest+ Certification by March 2024.
+  - I anticipate having my Pentest+ Certification by May of 2025.
 
 <h2>🛠️ My Cybersecurity Projects:</h2>
 
