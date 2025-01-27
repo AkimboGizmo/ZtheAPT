@@ -1,18 +1,18 @@
 <h1>Hi, I'm Tim Z. </h1>
-  <b>AKA Akimbo_Gizmo on HacktheBox and Twitch</b> 
+  <b>AKA Akimbo_Gizmo on HacktheBox | ZtheAPT in HuntressCTF 2023 | ZiLTch in HuntressCTF 2024</b> 
   
-  <b>Magna cum laude Cyber Security Graduate</b>
+  <b>Magna cum laude Cybersecurity Graduate from Texas State Technical College</b>
 
 <h2>🔒👨‍💻Aspiring Penetration Tester | Red Team | Cybersecurity Enthusiast👨‍💻🔒</h2>
 
 - <b>Cybersecurity Career Transition</b>
   - Leveraging almost two decades of experience in Quality Assurance and Quality Control (QA/QC) and welding inspection within the Oil and Gas industry, I've embarked on an exciting journey into cybersecurity. This career shift reflects my unwavering commitment to protect digital assets and ensure system integrity.
 - <b>Hack the Box, HuntressCTF and PicoCTF Writeups</b>
-  - As part of my relentless pursuit of knowledge and practical experience, I've actively engaged with platforms like Hack the Box, HuntressCTF Comp and PicoCTF. I've meticulously documented my challenges, solutions, and insights, transforming my passion into real-world, hands-on cybersecurity projects.
+  - As part of my relentless pursuit of knowledge and practical experience, I've actively engaged with platforms like Hack the Box, HuntressCTF Comp and PicoCTF. I've documented some of my challenges, solutions, and insights, transforming my passion into real-world, hands-on cybersecurity projects.
 - <b>Phi Theta Kappa Honors Student</b>
-  - Graduating with an impressive 3.9 GPA, I proudly achieved the status of a Phi Theta Kappa Honors Student, ranking in the top 10% of my campus.
+  - Graduating with a 3.9 GPA, I proudly achieved the status of a Phi Theta Kappa Honors Student, ranking in the top 10% of my campus.
   - <b>Future Pentest+ Aspirations</b>
-  - With unwavering determination, I aspire to obtain the Pentest+ certification in the next 6 to 12 months, positioning myself as a proficient Penetration Tester and Red Teamer.
+  - I aspire to obtain the Pentest+ certification in the beginning of 2025, positioning myself as a proficient Penetration Tester and Red Teamer.
    
 - <b>Cybersecurity Study Group | Community Founder</b>
   - Created and Hosted by core TSTC Honor Students. Beyond personal growth, I'm passionate about fostering a strong cybersecurity community. I founded a study group where like-minded students connect, collaborate, and gain practical experience. Within this community, I serve as an instructor, sharing expertise in Linux Basics and Pentesting methods, all contributing 
