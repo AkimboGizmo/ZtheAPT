@@ -18,7 +18,7 @@
 
 - <b>Cybersecurity Associate of Applied Science    Graduated: 08/31/2023
 - <b>Security+ Certification</b>
-  - CompTIA Security+ ce SYO-701 Certified   ![image](https://github.com/user-attachments/assets/f59db196-baff-4ac7-8ff7-4c1b75569b2e)  Obtained: 11.01.2024
+  - CompTIA Security+ ce SYO-701 Certified   Obtained: 11.01.2024
 - <b>Huntress Hacktober CTF 2023 and 2024<b>
   - In HuntressCTF 2023 our team was in the top 5% of contesstance.
   - In HuntressCTf 2024 our team was in the top 6% of contesstance.
