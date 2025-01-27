@@ -19,7 +19,7 @@
 <h2> Education and Training</h2>
 
 - <b>Cybersecurity Associate of Applied Science
-  - Graduated: 08/31/2023
+  - Graduated 08/31/2023 from Texas State Technical College
 
 - <b>Security+ Certification</b> ![image](https://github.com/user-attachments/assets/4bf767e4-4c47-4f3c-91c7-9e9120a18231) 
   - CompTIA Security+ ce SYO-701 Certified | Obtained: 11.01.2024 
