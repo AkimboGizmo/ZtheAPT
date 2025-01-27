@@ -7,8 +7,10 @@
 
 - <b>Cybersecurity Career Transition</b>
   - Leveraging almost two decades of experience in Quality Assurance and Quality Control (QA/QC) and welding inspection within the Oil and Gas industry, I've embarked on an exciting journey into cybersecurity. This career shift reflects my unwavering commitment to protect digital assets and ensure system integrity.
+
 - <b>Hack the Box, HuntressCTF and PicoCTF Writeups</b>
   - As part of my relentless pursuit of knowledge and practical experience, I've actively engaged with platforms like Hack the Box, HuntressCTF Comp and PicoCTF. I've documented some of my challenges, solutions, and insights, transforming my passion into real-world, hands-on cybersecurity projects.
+
 - <b>Phi Theta Kappa Honors Student</b>
   - Graduating with a 3.9 GPA, I proudly achieved the status of a Phi Theta Kappa Honors Student, ranking in the top 10% of my campus.
   - <b>Future Pentest+ Aspirations</b>
@@ -18,17 +20,21 @@
 
 - <b>Cybersecurity Associate of Applied Science
   - Graduated: 08/31/2023
+
 - <b>Security+ Certification</b>
   - ![image](https://github.com/user-attachments/assets/4bf767e4-4c47-4f3c-91c7-9e9120a18231) CompTIA Security+ ce SYO-701 Certified | Obtained: 11.01.2024
+
 - <b>Huntress Hacktober CTF 2023 and 2024<b>
   - In HuntressCTF 2023 our team was in the top 5% of contesstance.
   - In HuntressCTf 2024 our team was in the top 6% of contesstance.
   - You can find my write ups in the links bellow.
+
 - <b>Cybersecurity Study Group | Community Founder</b>
   - Created and hosted the cybersecurity Stuy Group that consisted of a core group of TSTC students. Over 90% of our group graduated as Honor Students. I'm passionate about fostering a strong cybersecurity community and growing our knowledge together. I wanted to create a space where like-minded students could connect, collaborate, 
     and gain practical experience. Within this community, I served as a helping hand to the group, sharing my knowledge in the cybersecurity methods being taught at TSTC's program. Working and learning together made for great experiences for other students and myself, elevating our learning experince while making bonds with those in 
     our community. The Cybersecurity Study group was hosted and maintaind souly by myself as well as other students of TSTC program.
     --NOT AFFILIATED WITH TEXAS STATE TECHNICAL COLLEGE.-- 
+
 - <b>Pentest+ Certification Pursuit</b>
   - I anticipate having my Pentest+ Certification by May of 2025.
 
