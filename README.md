@@ -75,6 +75,19 @@ I aim to earn my **Pentest+ certification** by **May 2025**, aligning my skills 
 
 ---
 
+<h2>🛠️ My Cybersecurity Projects:</h2>
+
+- [TSTC Penetration Testing Capstone](https://github.com/ZtheAPT/Pentest-Capstone-TSTC)
+- [TSTC Network Enterprise Capstone](https://github.com/ZtheAPT/Network-Enterprise-Capstone-TSTC)
+- [My Hack the Box Writeups](https://github.com/ZtheAPT/HacktheBox-Writeups)
+- [My HuntressCTF Writeups](https://github.com/ZtheAPT/HuntressCTF-Writeups)
+
+---
+
+<h2> 🤝 Connect with me:</h2>
+
+linkedin]: https://www.linkedin.com/in/timothy-zellers
+
 Thank you for visiting my page! Feel free to explore my projects, write-ups, and accomplishments. Let's connect and grow together in the cybersecurity field.  
 
-[<img align="left" alt="YourName | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]   https://https://www.linkedin.com/in/timothy-zellers
+
