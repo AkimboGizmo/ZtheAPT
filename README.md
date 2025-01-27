@@ -22,7 +22,7 @@
   - Graduated: 08/31/2023
 
 - <b>Security+ Certification</b>
-  - ![image](https://github.com/user-attachments/assets/4bf767e4-4c47-4f3c-91c7-9e9120a18231) CompTIA Security+ ce SYO-701 Certified | Obtained: 11.01.2024
+  - CompTIA Security+ ce SYO-701 Certified | Obtained: 11.01.2024 ![image](https://github.com/user-attachments/assets/4bf767e4-4c47-4f3c-91c7-9e9120a18231) 
 
 - <b>Huntress Hacktober CTF 2023 and 2024<b>
   - In HuntressCTF 2023 our team was in the top 5% of contesstance.
