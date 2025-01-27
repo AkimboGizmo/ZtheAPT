@@ -25,9 +25,9 @@
   - In HuntressCTf 2024 our team was in the top 6% of contesstance.
   - You can find my write ups in the links bellow.
 - <b>Cybersecurity Study Group | Community Founder</b>
-  - Created and hosted the cybersecurity Stuy Group that consisted of a core group of TSTC students. Over 90% of our group graduated as Honor Students. I'm passionate about fostering a strong cybersecurity community and growing our knowledge together. I founded the study group where like-minded students could connect, collaborate, and 
-    gain practical experience. Within this community, I served as a helping hand to the group, sharing my knowledge in the cybersecurity methods being taught at TSTC's program. Working and learning together made for great experiences for other students and myself, elevating our learning experince while making bonds with those in our 
-    community. The Cybersecurity Study group was hosted and maintaind souly by myself as well as other students of TSTC program.
+  - Created and hosted the cybersecurity Stuy Group that consisted of a core group of TSTC students. Over 90% of our group graduated as Honor Students. I'm passionate about fostering a strong cybersecurity community and growing our knowledge together. I wanted to create a space where like-minded students could connect, collaborate, 
+    and gain practical experience. Within this community, I served as a helping hand to the group, sharing my knowledge in the cybersecurity methods being taught at TSTC's program. Working and learning together made for great experiences for other students and myself, elevating our learning experince while making bonds with those in 
+    our community. The Cybersecurity Study group was hosted and maintaind souly by myself as well as other students of TSTC program.
     --NOT AFFILIATED WITH TEXAS STATE TECHNICAL COLLEGE.-- 
 - <b>Pentest+ Certification Pursuit</b>
   - I anticipate having my Pentest+ Certification by May of 2025.
@@ -44,7 +44,7 @@
 [<img align="left" alt="YourName | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]   https://www.linkedin.com/in/timothy-zellers-7b871321b/
 
 
-[linkedin]: https://www.linkedin.com/in/timothy-zellers-7b871321b/
+[linkedin]: https://www.linkedin.com/in/timothy-zellers
 
 
 
