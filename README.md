@@ -1,62 +1,78 @@
 # Hi, I'm Tim Z.  
 **AKA Akimbo_Gizmo on Hack the Box | ZtheAPT in HuntressCTF 2023 | ZiLTch in HuntressCTF 2024**  
 
-**Magna cum laude Cybersecurity Graduate from Texas State Technical College**  
+---
+
+### 🎓 **Magna Cum Laude Cybersecurity Graduate**  
+**Texas State Technical College**  
 
 🔒👨‍💻 **Aspiring Penetration Tester | Red Team | Cybersecurity Enthusiast** 👨‍💻🔒  
 
 ---
 
-## Cybersecurity Career Transition  
-Leveraging almost two decades of experience in Quality Assurance (QA), Quality Control (QC), and welding inspection within the oil and gas industry, I've embarked on an exciting journey into cybersecurity. This career shift reflects my unwavering commitment to protecting digital assets and ensuring system integrity.  
+## **🌟 Cybersecurity Career Transition**  
+I bring nearly two decades of experience in:  
+- **Quality Assurance (QA)**  
+- **Quality Control (QC)**  
+- **Welding Inspection**  
+
+Having worked extensively within the **oil and gas industry**, I am now pursuing my passion for **cybersecurity**. This career shift represents my commitment to:  
+- Protecting digital assets  
+- Ensuring system integrity  
 
 ---
 
-## Hack the Box, HuntressCTF, and PicoCTF Writeups  
-As part of my relentless pursuit of knowledge and practical experience, I've actively engaged with platforms like Hack the Box, HuntressCTF, and PicoCTF. I've documented challenges, solutions, and insights, transforming my passion into real-world, hands-on cybersecurity projects.  
+## **🏆 Achievements & Certifications**  
 
----
-
-## Phi Theta Kappa Honors Student  
-Graduating with a 3.9 GPA, I proudly achieved the status of a Phi Theta Kappa Honors Student, ranking in the top 10% of my campus.  
-
----
-
-## Future Pentest+ Aspirations  
-I aim to obtain the Pentest+ certification in early 2025, positioning myself as a proficient penetration tester and red teamer.  
-
----
-
-## Education and Training  
+### **Education**  
 - **Cybersecurity Associate of Applied Science**  
-  Graduated on **08/31/2023** from Texas State Technical College  
+  - **Graduated:** 08/31/2023  
+  - **Institution:** Texas State Technical College  
+  - **Honors:** Magna Cum Laude, 3.9 GPA  
+  - **Phi Theta Kappa Honors Student:** Top 10%  
 
-- **CompTIA Security+ ce SY0-701 Certified**  
-  Obtained on **11/01/2024**  
+### **Certifications**  
+- **CompTIA Security+ ce (SY0-701)**  
+  - **Certified:** 11/01/2024  
 
----
+### **Hacktober CTF Rankings**  
+- **HuntressCTF 2023:** Top 5%  
+- **HuntressCTF 2024:** Top 6%  
 
-## Huntress Hacktober CTF 2023 and 2024  
-- In HuntressCTF 2023, our team ranked in the top 5% of contestants.  
-- In HuntressCTF 2024, our team ranked in the top 6% of contestants.  
-
-You can find my write-ups in the links below.  
-
----
-
-## Cybersecurity Study Group | Community Founder  
-I created and hosted the **Cybersecurity Study Group**, which consisted of a core group of TSTC students. Over 90% of our group graduated as honor students.  
-
-I'm passionate about fostering a strong cybersecurity community and growing our collective knowledge. My goal was to create a space where like-minded students could connect, collaborate, and gain practical experience.  
-
-Within this community, I shared my knowledge of the cybersecurity methods taught in TSTC's program and provided guidance to my peers. The group elevated our learning experience and helped forge meaningful bonds.  
-
-The **Cybersecurity Study Group** was hosted and maintained solely by me, with support from other TSTC students.  
-**--NOT AFFILIATED WITH TEXAS STATE TECHNICAL COLLEGE.--**  
+Write-ups available via links below.  
 
 ---
 
-## Pentest+ Certification Pursuit  
-I anticipate earning my Pentest+ certification by **May 2025**.  
+## **📚 Practical Experience**  
 
+### **CTF Writeups & Challenges**  
+I actively contribute to platforms like:  
+- **Hack the Box**  
+- **HuntressCTF**  
+- **PicoCTF**  
 
+I've documented challenges, solutions, and key takeaways from my journey, showcasing hands-on cybersecurity skills.  
+
+---
+
+## **🌐 Cybersecurity Study Group**  
+
+As the founder and host of a **Cybersecurity Study Group**, I:  
+- **Connected:** Like-minded TSTC students  
+- **Collaborated:** On real-world scenarios and challenges  
+- **Achieved:** Over 90% of members graduated as honor students  
+
+This community fostered shared learning and growth, creating a collaborative and supportive environment.  
+
+> **Note:** The group was hosted and maintained solely by me, with contributions from other students.  
+> **--NOT AFFILIATED WITH TEXAS STATE TECHNICAL COLLEGE.--**  
+
+---
+
+## **🎯 Pentest+ Certification Aspirations**  
+
+I aim to earn my **Pentest+ certification** by **May 2025**, aligning my skills with professional penetration testing and red teaming.  
+
+---
+
+Thank you for visiting my page! Feel free to explore my projects, write-ups, and accomplishments. Let's connect and grow together in the cybersecurity field.  
